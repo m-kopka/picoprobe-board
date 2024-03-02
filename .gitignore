@@ -1,0 +1,6 @@
+*.DS_Store
+*#auto_saved_files#
+_autosave-*
+fp-info-cache
+*-backups/
+*.kicad_prl
